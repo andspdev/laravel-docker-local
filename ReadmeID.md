@@ -39,7 +39,7 @@ Dokumen ini menjelaskan cara instalasi dan penggunaan **Docker** untuk kebutuhan
 4. **Clone project Laravel** ke dalam direktori tersebut:
 
    ```bash
-   git clone git@bitbucket.org:xxxxxxxx/project-laravel.git
+   git clone git@github.com:xxxxxxxx/project-laravel.git
    ```
 
 5. **Ubah nama folder hasil clone menjadi `src`**:

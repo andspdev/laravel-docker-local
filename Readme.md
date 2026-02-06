@@ -39,7 +39,7 @@ This document explains how to install and use **Docker** for **local development
 4. **Clone your Laravel project** into this directory:
 
    ```bash
-   git clone git@bitbucket.org:xxxxxxxx/project-laravel.git
+   git clone git@github.com:xxxxxxxx/project-laravel.git
    ```
 
 5. **Rename the cloned project directory to `src`**:
